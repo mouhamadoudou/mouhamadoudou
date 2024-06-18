@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Engineer with a passion
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouhamadoudou&label=Profile%20views&color=0e75b6&style=flat" alt="mouhamadoudou" /> </p>
 
-- 🌱 I’m currently learning **ExtJs**
+- 🌱 I’m currently learning **...**
 
 - 👯 I’m looking to collaborate on **Full stack**
 
