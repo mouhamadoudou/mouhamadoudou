@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm a dedicated Full Stack Engineer with a passion
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouhamadoudou&label=Profile%20views&color=0e75b6&style=flat" alt="mouhamadoudou" /> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **How i can be better**
 
-- 👯 I’m looking to collaborate on **Full stack**
+- 🚀 I'm free for new challenges
 
-- 📫 How to reach me **mouhamadou-niang@outlook.fr**
+- 📫 How to reach me **mouhamadou.niang@epitech.eu**
 
 - ⚡ Fun fact **I think I am funny**
 
