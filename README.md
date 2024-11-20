@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mouhamadou</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-Welcome to my GitHub profile! I'm a dedicated Full Stack Engineer with a passion for creating efficient, scalable, and user-friendly applications. I thrive on new challenges and am always eager to learn and grow in my field.
+Welcome to my GitHub profile! I'm from France and a dedicated Software Engineer with a passion for creating efficient. I thrive on tackling new challenges and am always eager to learn, grow, and contribute to impactful projects in the tech field.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouhamadoudou&label=Profile%20views&color=0e75b6&style=flat" alt="mouhamadoudou" /> </p>
 
